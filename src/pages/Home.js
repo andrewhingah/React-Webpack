@@ -1,21 +1,21 @@
-import React, { Component } from "react";
- 
+import React, { Component } from 'react';
+
 class Home extends Component {
   render() {
     return (
       <div>
-        <h2>HELLO</h2>
-        <p>Cras facilisis urna ornare ex volutpat, et
-        convallis erat elementum. Ut aliquam, ipsum vitae
-        gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-        metus nec massa. Maecenas hendrerit laoreet augue
-        nec molestie. Cum sociis natoque penatibus et magnis
-        dis parturient montes, nascetur ridiculus mus.</p>
- 
+        <h2>Welcome</h2>
+        <p>
+          Ang Lorem Ipsum ay ginagamit na modelo ng industriya ng pagpriprint at
+          pagtytypeset. Ang Lorem Ipsum ang naging regular na modelo simula pa
+          noong 1500s, noong may isang di kilalang manlilimbag and kumuha ng
+          galley ng type at ginulo ang pagkaka-ayos nito upang makagawa.
+        </p>
+
         <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
       </div>
     );
   }
 }
- 
+
 export default Home;

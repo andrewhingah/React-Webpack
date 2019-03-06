@@ -1,2 +1,2 @@
 # React-Webpack
-Boiler plate for react apps
+This is a simple single page application (SPA) built with webpack, React and React Router.
